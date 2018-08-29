@@ -1,0 +1,10 @@
+C:\Users\RVazquez\source\repos\JUEGO\JUEGO\bin\Debug\JUEGO.exe.config
+C:\Users\RVazquez\source\repos\JUEGO\JUEGO\bin\Debug\JUEGO.exe
+C:\Users\RVazquez\source\repos\JUEGO\JUEGO\bin\Debug\JUEGO.pdb
+C:\Users\RVazquez\source\repos\JUEGO\JUEGO\obj\Debug\JUEGO.csprojAssemblyReference.cache
+C:\Users\RVazquez\source\repos\JUEGO\JUEGO\obj\Debug\JUEGO.Avioncitos.resources
+C:\Users\RVazquez\source\repos\JUEGO\JUEGO\obj\Debug\JUEGO.Properties.Resources.resources
+C:\Users\RVazquez\source\repos\JUEGO\JUEGO\obj\Debug\JUEGO.csproj.GenerateResource.cache
+C:\Users\RVazquez\source\repos\JUEGO\JUEGO\obj\Debug\JUEGO.csproj.CoreCompileInputs.cache
+C:\Users\RVazquez\source\repos\JUEGO\JUEGO\obj\Debug\JUEGO.exe
+C:\Users\RVazquez\source\repos\JUEGO\JUEGO\obj\Debug\JUEGO.pdb
